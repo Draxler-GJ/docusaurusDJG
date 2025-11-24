@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://github.com/Draxler-GJ/Draxler-GJ.github.io',
+  url: 'https://Draxler-GJ.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docusaurusDJG/',
@@ -101,6 +101,12 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+
+          {
+            to: 'benvinguda-DJG',
+            label: 'Benvinguda',
+            position: 'left',
+          }
         ],
       },
       footer: {
