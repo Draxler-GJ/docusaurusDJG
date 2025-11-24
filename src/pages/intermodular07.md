@@ -7,8 +7,8 @@ S'ha utilitzat un repositori de **Github** per a desplegar _tres plataformes dif
 
 * [Github](https://github.com/Draxler-GJ/docusaurusDJG)
 * [Vercel](https://intermodular06-djg.vercel.app/)
-* [Netlify](harmonious-semolina-1d65ff.netlify.app)
+* [Netlify](https://harmonious-semolina-1d65ff.netlify.app)
 
 |Github|Vercel|Netlify|
 |------|------|-------|
-|(img/github.webp)|img/apple-touch-icon-256x256.png|img/netlify.png|
+|!(img/github.webp)|!(img/apple-touch-icon-256x256.png)|!(img/netlify.png)|
